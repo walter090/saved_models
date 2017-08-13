@@ -1,0 +1,6 @@
+model_checkpoint_path: "trained_model-62000"
+all_model_checkpoint_paths: "trained_model-60000"
+all_model_checkpoint_paths: "trained_model-60500"
+all_model_checkpoint_paths: "trained_model-61000"
+all_model_checkpoint_paths: "trained_model-61500"
+all_model_checkpoint_paths: "trained_model-62000"
